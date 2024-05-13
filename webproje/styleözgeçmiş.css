@@ -1,5 +1,5 @@
 body {
-    background-image: url('backiee-110716.jpg'); 
+    background-image: url('backiee-125001.jpg'); 
     background-size: cover; 
     background-position: center; 
     background-attachment: fixed;
@@ -30,3 +30,25 @@ body {
 .nav-link:hover {
     color: #114380f0;
 }
+.text-center {
+    text-align: center;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 800px; /* Sayfanın genişliğine göre ayarlayabilirsiniz */
+}
+
+.tablokonum {
+    margin: 0 auto;
+}
+table {
+    
+    margin: 0 auto;
+   
+}
+th, td {
+    font-size: 19px; /* Başlık ve yazıların boyutunu istediğiniz gibi ayarlayabilirsiniz */
+    font-weight: bold; /* İstediğiniz kalınlıkta font kullanabilirsiniz */
+}
+
