@@ -1,5 +1,5 @@
 body {
-    background-image: url('backiee-110716.jpg'); 
+    background-image: url("backiee-125001.jpg"); 
     background-size: cover; 
     background-position: center; 
     background-attachment: fixed;
@@ -29,4 +29,12 @@ body {
 }
 .nav-link:hover {
     color: #114380f0;
+}
+footer {
+    position: static;
+    bottom: 0;
+    width: 100%;
+    
+    color: #fff; /* Metin rengini istediğiniz gibi ayarlayabilirsiniz */
+    padding: 15px; /* Footer içeriğinin etrafına boşluk ekleyebilirsiniz */
 }
