@@ -1,5 +1,5 @@
 body {
-    background-image: url('backiee-110716.jpg'); 
+    background-image: url('backiee-125001.jpg'); 
     background-size: cover; 
     background-position: center; 
     background-attachment: fixed;
@@ -30,3 +30,7 @@ body {
 .nav-link:hover {
     color: #114380f0;
 }
+.carousel-item img {
+   width : 650px; /* Örnek olarak 200 piksel genişlik */
+    height: 600px;
+  }
