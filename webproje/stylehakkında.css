@@ -1,11 +1,10 @@
 
-body {
-    background-image: url('backiee-110716.jpg'); 
+body { background-image: url('backiee-125001.jpg'); 
     background-size: cover; 
     background-position: center; 
     background-attachment: fixed;
     color: #fff; 
-    font-family: 'Sedan SC', sans-serif; 
+    font-family: 'Sedan SC', sans-serif;  
 }
 .navbar {
     background-color: transparent; 
@@ -31,3 +30,4 @@ body {
 .nav-link:hover {
     color: #114380f0;
 }
+
