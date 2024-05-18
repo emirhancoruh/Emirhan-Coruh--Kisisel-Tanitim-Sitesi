@@ -36,7 +36,7 @@ body {
 
 .container {
     margin: 0 auto;
-    max-width: 800px; /* Sayfanın genişliğine göre ayarlayabilirsiniz */
+    max-width: 800px; 
 }
 
 .tablokonum {
@@ -48,7 +48,6 @@ table {
    
 }
 th, td {
-    font-size: 19px; /* Başlık ve yazıların boyutunu istediğiniz gibi ayarlayabilirsiniz */
-    font-weight: bold; /* İstediğiniz kalınlıkta font kullanabilirsiniz */
+    font-weight: bold; 
 }
 

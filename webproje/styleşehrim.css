@@ -35,6 +35,6 @@ footer {
     bottom: 0;
     width: 100%;
     
-    color: #fff; /* Metin rengini istediğiniz gibi ayarlayabilirsiniz */
-    padding: 15px; /* Footer içeriğinin etrafına boşluk ekleyebilirsiniz */
+    color: #fff; 
+    padding: 15px;
 }

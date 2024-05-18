@@ -31,6 +31,6 @@ body {
     color: #114380f0;
 }
 .carousel-item img {
-   width : 650px; /* Örnek olarak 200 piksel genişlik */
+   width : 650px; 
     height: 600px;
   }
